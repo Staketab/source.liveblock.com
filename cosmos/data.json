@@ -6,21 +6,33 @@
                 "main_logo_link": "https://staketab.com/staketab-logo-blue.png",
                 "details": "Staking Provider. Secure and non-custodial staking.",
                 "chains_addresses": {
-                    "cosmos": [{
-                        "logo": "",
-                        "address": ""
-                    }],
-                    "desmos": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42",
-                    "sifchain": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva",
-                    "kava": "",
-                    "ixo": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658",
-                    "sentinel": "",
-                    "akash": "",
-                    "bitcanna": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf",
-                    "osmosis": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5",
-                    "juno": "",
-                    "stargaze": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq",
-                    "medibloc": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
+                    "tendermint": [
+                        {
+                            "name": "cosmos",
+                            "logo": "",
+                            "address": ""
+                        },
+                        {
+                            "name": "desmos",
+                            "logo": "",
+                            "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
+                        },
+                        {
+                            "name": "sifchain",
+                            "logo": "",
+                            "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
+                        },
+                        {
+                            "name": "kava",
+                            "logo": "",
+                            "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
+                        },
+                        {
+                            "name": "ixo",
+                            "logo": "",
+                            "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+                        }
+                      ]
                 },
                 "social_links": {
                     "keybase_id": "D55266E648F3F70B",
@@ -31,38 +43,6 @@
                     "telegram_chat": "https://t.me/staketab_ann",
                     "telegram_nickname": "@Ducca"
                 }
-            },
-            {
-                "moniker": "Staketab",
-                "website": "https://staketab.com/",
-                "main_logo_link": "https://staketab.com/staketab-logo-blue.png",
-                "details": "Staking Provider. Secure and non-custodial staking.",
-                "chains_addresses": {
-                    "cosmos": [{
-                        "logo": "",
-                        "address": ""
-                    }],
-                    "desmos": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42",
-                    "sifchain": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva",
-                    "kava": "",
-                    "ixo": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658",
-                    "sentinel": "",
-                    "akash": "",
-                    "bitcanna": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf",
-                    "osmosis": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5",
-                    "juno": "",
-                    "stargaze": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq",
-                    "medibloc": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
-                },
-                "social_links": {
-                    "keybase_id": "D55266E648F3F70B",
-                    "github": "https://github.com/Staketab",
-                    "twitter": "https://twitter.com/staketab",
-                    "discord_channel": "https://discord.com/invite/6QUayW3ykD",
-                    "discord_nickname": "Ducca | StakeTab#5707",
-                    "telegram_chat": "https://t.me/staketab_ann",
-                    "telegram_nickname": "@Ducca"
-                }
-            }
+            }            
         ]
 }
