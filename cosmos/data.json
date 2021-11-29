@@ -5,13 +5,8 @@
                 "website": "https://staketab.com/",
                 "main_logo_link": "https://staketab.com/staketab-logo-blue.png",
                 "details": "Staking Provider. Secure and non-custodial staking.",
-                "chains_addresses": {
+                "chains": {
                     "tendermint": [
-                        {
-                            "name": "cosmos",
-                            "logo": "",
-                            "address": ""
-                        },
                         {
                             "name": "desmos",
                             "logo": "",
@@ -19,18 +14,20 @@
                         },
                         {
                             "name": "sifchain",
-                            "logo": "",
+                            "logo": "https://staketab.com/staketab-logo-blue.png",
                             "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
-                        },
-                        {
-                            "name": "kava",
-                            "logo": "",
-                            "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
                         },
                         {
                             "name": "ixo",
                             "logo": "",
                             "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+                        }
+                      ],
+                      "mina": [
+                        {
+                            "name": "mina",
+                            "logo": "",
+                            "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx"
                         }
                       ]
                 },
@@ -43,6 +40,6 @@
                     "telegram_chat": "https://t.me/staketab_ann",
                     "telegram_nickname": "@Ducca"
                 }
-            }            
+            }
         ]
 }
