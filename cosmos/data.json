@@ -26,8 +26,11 @@
                       "mina": [
                         {
                             "name": "mina",
-                            "logo": "",
-                            "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx"
+                            "logo": "https://staketab.com/staketab-logo-blue.png",
+                            "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx",
+                            "fee": "0.07",
+                            "terms": "1 / epoch",
+                            "add_terms": "The commission for a supercharge block (when delegating unlocked coins) is 1%, which ultimately will be about 4%. For a regular block 7%. Join our discord to find out more."
                         }
                       ]
                 },
@@ -41,5 +44,6 @@
                     "telegram_nickname": "@Ducca"
                 }
             }
+            
         ]
 }
