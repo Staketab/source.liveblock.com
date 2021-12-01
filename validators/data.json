@@ -1,0 +1,100 @@
+{
+    "data": [
+                {
+                    "moniker": "Staketab",
+                    "website": "https://staketab.com/",
+                    "main_logo_link": "https://staketab.com/staketab-logo-blue.png",
+                    "details": "Staking Provider. Secure and non-custodial staking.",
+                    "chains": {
+                        "tendermint": [
+                            {
+                                "name": "desmos",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
+                            },
+                            {
+                                "name": "comdex",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7"
+                            },
+                            {
+                                "name": "stargaze",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq"
+                            },
+                            {
+                                "name": "bitcanna",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf"
+                            },
+                            {
+                                "name": "medibloc",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
+                            },
+                            {
+                                "name": "osmosis",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5"
+                            },
+                            {
+                                "name": "sifchain",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
+                            },
+                            {
+                                "name": "ixo",
+                                "type": "mainnet",
+                                "logo": "",
+                                "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+                            },
+                            {
+                                "name": "axelar",
+                                "type": "testnet",
+                                "logo": "",
+                                "address": "axelarvaloper1znln7jg6veynygkstkpqtqdwa47rp7u4zqvev7"
+                            },
+                            {
+                                "name": "idep",
+                                "type": "testnet",
+                                "logo": "",
+                                "address": "idepvaloper1up20smqwq4ymvp550lghtdldps6x49t5j3rlga"
+                            },
+                            {
+                                "name": "desmos",
+                                "type": "testnet",
+                                "logo": "",
+                                "address": "desmosvaloper1yj39fh6zyyl9h7uxh0hguh95w9w23td4x8pud2"
+                            }
+                          ],
+                          "mina": [
+                            {
+                                "name": "mina",
+                                "logo": "https://staketab.com/staketab-logo-blue.png",
+                                "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx",
+                                "fee": 0.07,
+                                "terms": "1 / epoch",
+                                "add_terms": "The commission for a supercharge block (when delegating unlocked coins) is 1%, which ultimately will be about 4%. For a regular block 7%. Join our discord to find out more."
+                            }
+                          ]
+                    },
+                    "social_links": {
+                        "keybase_id": "D55266E648F3F70B",
+                        "github": "https://github.com/Staketab",
+                        "twitter": "https://twitter.com/staketab",
+                        "discord_channel": "https://discord.com/invite/6QUayW3ykD",
+                        "discord_nickname": "Ducca | StakeTab#5707",
+                        "telegram_chat": "https://t.me/staketab_ann",
+                        "telegram_nickname": "@Ducca"
+                    }
+                }
+            ]
+    }
+    
