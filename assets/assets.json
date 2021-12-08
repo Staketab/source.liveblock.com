@@ -1,0 +1,202 @@
+{
+    "assets": [
+        {
+            "tendermint": [
+                {
+                    "id": "cosmos",
+                    "symbol": "atom",
+                    "name": "Cosmos",
+                    "logo": "https://pbs.twimg.com/profile_images/1328431690268729347/flijoJYv_400x400.jpg"
+                },
+                {
+                    "id": "akash-network",
+                    "symbol": "akt",
+                    "name": "Akash Network",
+                    "logo": "https://pbs.twimg.com/profile_images/1252096774325452800/TpPQTz2B_400x400.jpg"
+                },
+                {
+                    "id": "regen",
+                    "symbol": "regen",
+                    "name": "Regen",
+                    "logo": "https://pbs.twimg.com/profile_images/1372333329698070529/4EbTnabi_400x400.png"
+                },
+                {
+                    "id": "iris-network",
+                    "symbol": "iris",
+                    "name": "IRISnet",
+                    "logo": "https://pbs.twimg.com/profile_images/950255247095562246/hpN9o681_400x400.jpg"
+                },
+                {
+                    "id": "sentinel",
+                    "symbol": "dvpn",
+                    "name": "Sentinel",
+                    "logo": "https://pbs.twimg.com/profile_images/1363842388192612357/lc4nnSCn_400x400.jpg"
+                },
+                {
+                    "id": "persistence",
+                    "symbol": "xprt",
+                    "name": "Persistence",
+                    "logo": "https://pbs.twimg.com/profile_images/1350490180399071232/oW3AGQyU_400x400.jpg"
+                },
+                {
+                    "id": "osmosis",
+                    "symbol": "osmo",
+                    "name": "Osmosis",
+                    "logo": "https://pbs.twimg.com/profile_images/1359543597343723523/aQ5W3zaT_400x400.jpg"
+                },
+                {
+                    "id": "ixo",
+                    "symbol": "ixo",
+                    "name": "IXO",
+                    "logo": "https://pbs.twimg.com/profile_images/1457293969801482241/78AXqR-5_400x400.jpg"
+                },
+                {
+                    "id": "likecoin",
+                    "symbol": "like",
+                    "name": "LikeCoin",
+                    "logo": "https://pbs.twimg.com/profile_images/1455852921850335232/4JWNhBGO_400x400.jpg"
+                },
+                {
+                    "id": "ion",
+                    "symbol": "ion",
+                    "name": "Ion",
+                    "logo": "https://pbs.twimg.com/profile_images/1409519658487668742/61jHe1zP_400x400.jpg"
+                },
+                {
+                    "id": "starname",
+                    "symbol": "iov",
+                    "name": "Starname",
+                    "logo": "https://pbs.twimg.com/profile_images/1460918053252780068/gy6dLt_J_400x400.jpg"
+                },
+                {
+                    "id": "juno-network",
+                    "symbol": "juno",
+                    "name": "Juno Network",
+                    "logo": "https://pbs.twimg.com/profile_images/1463819969620234247/kGvPhnXc_400x400.jpg"
+                },
+                {
+                    "id": "sifchain",
+                    "symbol": "erowan",
+                    "name": "Sifchain",
+                    "logo": "https://pbs.twimg.com/profile_images/1447207700807528449/_00u_QjX_400x400.jpg"
+                },
+                {
+                    "id": "ki",
+                    "symbol": "xki",
+                    "name": "KI",
+                    "logo": "https://pbs.twimg.com/profile_images/1113780010140221440/VBxKQPQK_400x400.png"
+                },
+                {
+                    "id": "crypto-com-chain",
+                    "symbol": "cro",
+                    "name": "Crypto.com Coin",
+                    "logo": "https://pbs.twimg.com/profile_images/920233201301254144/oCw2s3GI_400x400.jpg"
+                },
+                {
+                    "id": "terra-luna",
+                    "symbol": "luna",
+                    "name": "Terra",
+                    "logo": "https://pbs.twimg.com/profile_images/1031870569023565824/dko3zOvC_400x400.jpg"
+                },
+                {
+                    "id": "terrausd",
+                    "symbol": "ust",
+                    "name": "TerraUSD",
+                    "logo": "https://pbs.twimg.com/profile_images/1031870569023565824/dko3zOvC_400x400.jpg"
+                },
+                {
+                    "id": "binancecoin",
+                    "symbol": "bnb",
+                    "name": "Binance Coin",
+                    "logo": "https://pbs.twimg.com/profile_images/1430867369946226689/X8SkvT9O_400x400.png"
+                },
+                {
+                    "id": "thorchain",
+                    "symbol": "rune",
+                    "name": "THORChain",
+                    "logo": "https://pbs.twimg.com/profile_images/1378118917944532993/SYsNWjos_400x400.jpg"
+                },
+                {
+                    "id": "fetch-ai",
+                    "symbol": "fet",
+                    "name": "Fetch.ai",
+                    "logo": "https://pbs.twimg.com/profile_images/1182640536936681472/MxfdWEEJ_400x400.jpg"
+                },
+                {
+                    "id": "kava",
+                    "symbol": "kava",
+                    "name": "Kava",
+                    "logo": "https://pbs.twimg.com/profile_images/1466786815269089298/F2H3m9mA_400x400.jpg"
+                },
+                {
+                    "id": "oasis-network",
+                    "symbol": "rose",
+                    "name": "Oasis Network",
+                    "logo": "https://pbs.twimg.com/profile_images/1434963623235948544/ZoghTNSO_400x400.png"
+                },
+                {
+                    "id": "secret",
+                    "symbol": "scrt",
+                    "name": "Secret",
+                    "logo": "https://pbs.twimg.com/profile_images/1402321638818037763/iqI_mjKq_400x400.jpg"
+                },
+                {
+                    "id": "injective-protocol",
+                    "symbol": "inj",
+                    "name": "Injective Protocol",
+                    "logo": "https://pbs.twimg.com/profile_images/1391612775877726210/piqk_8iW_400x400.jpg"
+                },
+                {
+                    "id": "bluzelle",
+                    "symbol": "blz",
+                    "name": "Bluzelle",
+                    "logo": "https://pbs.twimg.com/profile_images/1397885651547090944/yG9RdL1B_400x400.jpg"
+                },
+                {
+                    "id": "certik",
+                    "symbol": "ctk",
+                    "name": "CertiK",
+                    "logo": "https://pbs.twimg.com/profile_images/1280545601260793856/Qw35uUw7_400x400.jpg"
+                },
+                {
+                    "id": "oraichain-token",
+                    "symbol": "orai",
+                    "name": "Oraichain Token",
+                    "logo": "https://pbs.twimg.com/profile_images/1436733734607155200/wgmiGSG9_400x400.jpg"
+                },
+                {
+                    "id": "e-money",
+                    "symbol": "ngm",
+                    "name": "e-Money",
+                    "logo": "https://pbs.twimg.com/profile_images/1412760570777018378/yoR2r25W_400x400.jpg"
+                },
+                {
+                    "id": "bitsong",
+                    "symbol": "btsg",
+                    "name": "BitSong",
+                    "logo": "https://pbs.twimg.com/profile_images/1427977812179365893/cuPsgWcH_400x400.jpg"
+                },
+                {
+                    "id": "medibloc",
+                    "symbol": "med",
+                    "name": "Medibloc",
+                    "logo": "https://pbs.twimg.com/profile_images/1181495891351371776/WJoHSd5p_400x400.jpg"
+                },
+                {
+                    "id": "bitcanna",
+                    "symbol": "bcna",
+                    "name": "BitCanna",
+                    "logo": "https://pbs.twimg.com/profile_images/1455116847024586757/T9o06sNM_400x400.png"
+                }
+            ],
+            "mina": [
+                {
+                    "id": "mina-protocol",
+                    "symbol": "mina",
+                    "name": "Mina Protocol",
+                    "logo": "https://pbs.twimg.com/profile_images/1310958947357077504/JM4_vQ34_400x400.png"
+                }
+            ]
+        }
+    ]
+}

@@ -1,335 +1,335 @@
 {
     "data": [
-                {
-                    "moniker": "Staketab",
-                    "website": "https://staketab.com/",
-                    "logo": "https://staketab.com/staketab-logo-blue.png",
-                    "description": "Staking Provider. Secure and non-custodial staking.",
-                    "chains": {
-                        "tendermint": [
-                            {
-                                "name": "desmos",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
-                            },
-                            {
-                                "name": "comdex",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7"
-                            },
-                            {
-                                "name": "stargaze",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq"
-                            },
-                            {
-                                "name": "bitcanna",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf"
-                            },
-                            {
-                                "name": "medibloc",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
-                            },
-                            {
-                                "name": "osmosis",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5"
-                            },
-                            {
-                                "name": "sifchain",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
-                            },
-                            {
-                                "name": "ixo",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
-                            },
-                            {
-                                "name": "axelar",
-                                "type": "testnet",
-                                "logo": "",
-                                "address": "axelarvaloper1znln7jg6veynygkstkpqtqdwa47rp7u4zqvev7"
-                            },
-                            {
-                                "name": "idep",
-                                "type": "testnet",
-                                "logo": "",
-                                "address": "idepvaloper1up20smqwq4ymvp550lghtdldps6x49t5j3rlga"
-                            },
-                            {
-                                "name": "desmos",
-                                "type": "testnet",
-                                "logo": "",
-                                "address": "desmosvaloper1yj39fh6zyyl9h7uxh0hguh95w9w23td4x8pud2"
-                            }
-                          ],
-                          "mina": [
-                            {
-                                "name": "mina",
-                                "logo": "https://staketab.com/staketab-logo-blue.png",
-                                "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx",
-                                "fee": 0.07,
-                                "terms": "1 / epoch",
-                                "add_terms": "The commission for a supercharge block (when delegating unlocked coins) is 1%, which ultimately will be about 4%. For a regular block 7%. Join our discord to find out more."
-                            }
-                          ]
+        {
+            "moniker": "Staketab",
+            "website": "https://staketab.com/",
+            "logo": "https://staketab.com/staketab-logo-blue.png",
+            "description": "Staking Provider. Secure and non-custodial staking.",
+            "social_links": {
+                "keybase_id": "D55266E648F3F70B",
+                "github": "https://github.com/Staketab",
+                "twitter": "https://twitter.com/staketab",
+                "discord_channel": "https://discord.com/invite/6QUayW3ykD",
+                "discord_nickname": "Ducca | StakeTab#5707",
+                "telegram_chat": "https://t.me/staketab_ann",
+                "telegram_nickname": "@Ducca"
+            },
+            "chains": {
+                "tendermint": [
+                    {
+                        "name": "desmos",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
                     },
-                    "social_links": {
-                        "keybase_id": "D55266E648F3F70B",
-                        "github": "https://github.com/Staketab",
-                        "twitter": "https://twitter.com/staketab",
-                        "discord_channel": "https://discord.com/invite/6QUayW3ykD",
-                        "discord_nickname": "Ducca | StakeTab#5707",
-                        "telegram_chat": "https://t.me/staketab_ann",
-                        "telegram_nickname": "@Ducca"
-                    }
-                },
-                {
-                    "moniker": "Cosmostation",
-                    "website": "https://www.cosmostation.io/",
-                    "logo": "https://pbs.twimg.com/profile_images/1141994412450254849/nWwjGAZN_400x400.png",
-                    "description": "CØSMOSTATION Validator. Delegate your atoms and Start Earning Staking Rewards",
-                    "chains": {
-                        "tendermint": [
-                            {
-                                "name": "cosmos",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn"
-                            },
-                            {
-                                "name": "kava",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "kavavaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwu6lgey7"
-                            },
-                            {
-                                "name": "iris",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "iva18pva3yzzzaxj7l5a9uk66a0q7lflscyw966jud"
-                            },
-                            {
-                                "name": "starname",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "starvaloper1vlqztrl5pwnw8v8vd2ejwge86y5zrgua7rx7xj"
-                            },
-                            {
-                                "name": "band",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "bandvaloper17d3uhcjlh4jyqcep82jfsrg8avsngklxxan5tg"
-                            },
-                            {
-                                "name": "akash",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz"
-                            },
-                            {
-                                "name": "sentinel",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "sentvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf43yj25"
-                            },
-                            {
-                                "name": "persistence",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "persistencevaloper1rq598kexpsdmhxq63qq74v3tf22u6yvlre4r00"
-                            },
-                            {
-                                "name": "fetch",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz"
-                            },
-                            {
-                                "name": "crypto.org",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "crocncl1xdmxh2hf68x7r5fwnu09ddyvrt2d6nwgyqzucr"
-                            },
-                            {
-                                "name": "sifchain",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "sifvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfas26wf"
-                            },
-                            {
-                                "name": "kichain",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "kivaloper1ss2f0nl7sn42x8x0d337mj9welzml8h00msg4x"
-                            },
-                            {
-                                "name": "osmosis",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "osmovaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep88n0y4"
-                            },
-                            {
-                                "name": "medibloc",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "panaceavaloper1rr89tj2jjlmf6xvc4a9plp4fll225ugqtk73r9"
-                            },
-                            {
-                                "name": "certik",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "certikvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfpn43fr"
-                            },
-                            {
-                                "name": "emoney",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "emoneyvaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwurl6vr7"
-                            },
-                            {
-                                "name": "rizon",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "rizonvaloper1qpgalplval6ynvq2r0afxchmc0x00zmuu06300"
-                            },
-                            {
-                                "name": "juno",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa"
-                            },
-                            {
-                                "name": "bitcanna",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "bcnavaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0fuwmq2"
-                            },
-                            {
-                                "name": "regen",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "regenvaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0f5erue"
-                            },
-                            {
-                                "name": "comdex",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "comdexvaloper1p0a674uq64mxfgxa2h75a6k7r86hjg7pefq4zy"
-                            },
-                            {
-                                "name": "bitsong",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "bitsongvaloper1wf3q0a3uzechxvf27reuqts8nqm45sn2yq26g3"
-                            },
-                            {
-                                "name": "desmos",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "desmosvaloper1tknem46cl5mlxkpqmls2nct38rtkvyq7cmdtcc"
-                            }
-                          ]
+                    {
+                        "name": "comdex",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7"
                     },
-                    "social_links": {
-                        "keybase_id": "",
-                        "github": "https://github.com/cosmostation",
-                        "twitter": "https://twitter.com/CosmostationVD",
-                        "discord_channel": "",
-                        "discord_nickname": "",
-                        "telegram_chat": "https://t.me/cosmostation",
-                        "telegram_nickname": ""
-                    }
-                },
-                {
-                    "moniker": "0base.vc",
-                    "website": "https://0base.vc/",
-                    "logo": "https://pbs.twimg.com/profile_images/1291430926832951297/Y50-Bkxt_400x400.jpg",
-                    "description": "0base.vc is a validator who doesn't trust any blockchain. We validate it by ourselves.",
-                    "chains": {
-                        "tendermint": [
-                            {
-                                "name": "cosmos",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "cosmosvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q46fe2xk"
-                            },
-                            {
-                                "name": "band",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "bandvaloper13vd9rzgytsvcm278ufehsvdvg2kky2djwjguq7"
-                            },
-                            {
-                                "name": "akash",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "akashvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cyw7r4"
-                            },
-                            {
-                                "name": "sifchain",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "sifvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4nz2r97"
-                            },
-                            {
-                                "name": "osmosis",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "osmovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4d3kvts"
-                            },
-                            {
-                                "name": "rizon",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd"
-                            },
-                            {
-                                "name": "juno",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "junovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kjctkq"
-                            },
-                            {
-                                "name": "regen",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys"
-                            },
-                            {
-                                "name": "stargaze",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "starsvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4qlwk6v"
-                            },
-                            {
-                                "name": "ixo",
-                                "type": "mainnet",
-                                "logo": "",
-                                "address": "ixovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42frukn"
-                            }
-                          ]
+                    {
+                        "name": "stargaze",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq"
                     },
-                    "social_links": {
-                        "keybase_id": "67A577430DBBCEE0",
-                        "github": "",
-                        "twitter": "https://twitter.com/0baseVC",
-                        "discord_channel": "",
-                        "discord_nickname": "jjangg96#7937",
-                        "telegram_chat": "",
-                        "telegram_nickname": ""
+                    {
+                        "name": "bitcanna",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf"
+                    },
+                    {
+                        "name": "medibloc",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
+                    },
+                    {
+                        "name": "osmosis",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5"
+                    },
+                    {
+                        "name": "sifchain",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
+                    },
+                    {
+                        "name": "ixo",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+                    },
+                    {
+                        "name": "axelar",
+                        "type": "testnet",
+                        "logo": "",
+                        "address": "axelarvaloper1znln7jg6veynygkstkpqtqdwa47rp7u4zqvev7"
+                    },
+                    {
+                        "name": "idep",
+                        "type": "testnet",
+                        "logo": "",
+                        "address": "idepvaloper1up20smqwq4ymvp550lghtdldps6x49t5j3rlga"
+                    },
+                    {
+                        "name": "desmos",
+                        "type": "testnet",
+                        "logo": "",
+                        "address": "desmosvaloper1yj39fh6zyyl9h7uxh0hguh95w9w23td4x8pud2"
                     }
-                }
-            ]
-    }
+                ],
+                "mina": [
+                    {
+                        "name": "mina",
+                        "logo": "https://staketab.com/staketab-logo-blue.png",
+                        "address": "B62qqV16g8s744GHM6Dph1uhW4fggYwyvtDnVSoRUyYqNvTir3Rqqzx",
+                        "fee": 0.07,
+                        "terms": "1 / epoch",
+                        "add_terms": "The commission for a supercharge block (when delegating unlocked coins) is 1%, which ultimately will be about 4%. For a regular block 7%. Join our discord to find out more."
+                    }
+                ]
+            }
+        },
+        {
+            "moniker": "Cosmostation",
+            "website": "https://www.cosmostation.io/",
+            "logo": "https://pbs.twimg.com/profile_images/1141994412450254849/nWwjGAZN_400x400.png",
+            "description": "CØSMOSTATION Validator. Delegate your atoms and Start Earning Staking Rewards",
+            "social_links": {
+                "keybase_id": "",
+                "github": "https://github.com/cosmostation",
+                "twitter": "https://twitter.com/CosmostationVD",
+                "discord_channel": "",
+                "discord_nickname": "",
+                "telegram_chat": "https://t.me/cosmostation",
+                "telegram_nickname": ""
+            },
+            "chains": {
+                "tendermint": [
+                    {
+                        "name": "cosmos",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn"
+                    },
+                    {
+                        "name": "kava",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "kavavaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwu6lgey7"
+                    },
+                    {
+                        "name": "iris",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "iva18pva3yzzzaxj7l5a9uk66a0q7lflscyw966jud"
+                    },
+                    {
+                        "name": "starname",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "starvaloper1vlqztrl5pwnw8v8vd2ejwge86y5zrgua7rx7xj"
+                    },
+                    {
+                        "name": "band",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "bandvaloper17d3uhcjlh4jyqcep82jfsrg8avsngklxxan5tg"
+                    },
+                    {
+                        "name": "akash",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz"
+                    },
+                    {
+                        "name": "sentinel",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "sentvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf43yj25"
+                    },
+                    {
+                        "name": "persistence",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "persistencevaloper1rq598kexpsdmhxq63qq74v3tf22u6yvlre4r00"
+                    },
+                    {
+                        "name": "fetch",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz"
+                    },
+                    {
+                        "name": "crypto.org",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "crocncl1xdmxh2hf68x7r5fwnu09ddyvrt2d6nwgyqzucr"
+                    },
+                    {
+                        "name": "sifchain",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "sifvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfas26wf"
+                    },
+                    {
+                        "name": "kichain",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "kivaloper1ss2f0nl7sn42x8x0d337mj9welzml8h00msg4x"
+                    },
+                    {
+                        "name": "osmosis",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "osmovaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep88n0y4"
+                    },
+                    {
+                        "name": "medibloc",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "panaceavaloper1rr89tj2jjlmf6xvc4a9plp4fll225ugqtk73r9"
+                    },
+                    {
+                        "name": "certik",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "certikvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfpn43fr"
+                    },
+                    {
+                        "name": "emoney",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "emoneyvaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwurl6vr7"
+                    },
+                    {
+                        "name": "rizon",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "rizonvaloper1qpgalplval6ynvq2r0afxchmc0x00zmuu06300"
+                    },
+                    {
+                        "name": "juno",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa"
+                    },
+                    {
+                        "name": "bitcanna",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "bcnavaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0fuwmq2"
+                    },
+                    {
+                        "name": "regen",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "regenvaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0f5erue"
+                    },
+                    {
+                        "name": "comdex",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "comdexvaloper1p0a674uq64mxfgxa2h75a6k7r86hjg7pefq4zy"
+                    },
+                    {
+                        "name": "bitsong",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "bitsongvaloper1wf3q0a3uzechxvf27reuqts8nqm45sn2yq26g3"
+                    },
+                    {
+                        "name": "desmos",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "desmosvaloper1tknem46cl5mlxkpqmls2nct38rtkvyq7cmdtcc"
+                    }
+                ]
+            }
+        },
+        {
+            "moniker": "0base.vc",
+            "website": "https://0base.vc/",
+            "logo": "https://pbs.twimg.com/profile_images/1291430926832951297/Y50-Bkxt_400x400.jpg",
+            "description": "0base.vc is a validator who doesn't trust any blockchain. We validate it by ourselves.",
+            "social_links": {
+                "keybase_id": "67A577430DBBCEE0",
+                "github": "",
+                "twitter": "https://twitter.com/0baseVC",
+                "discord_channel": "",
+                "discord_nickname": "jjangg96#7937",
+                "telegram_chat": "",
+                "telegram_nickname": ""
+            },
+            "chains": {
+                "tendermint": [
+                    {
+                        "name": "cosmos",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "cosmosvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q46fe2xk"
+                    },
+                    {
+                        "name": "band",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "bandvaloper13vd9rzgytsvcm278ufehsvdvg2kky2djwjguq7"
+                    },
+                    {
+                        "name": "akash",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "akashvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cyw7r4"
+                    },
+                    {
+                        "name": "sifchain",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "sifvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4nz2r97"
+                    },
+                    {
+                        "name": "osmosis",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "osmovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4d3kvts"
+                    },
+                    {
+                        "name": "rizon",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd"
+                    },
+                    {
+                        "name": "juno",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "junovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kjctkq"
+                    },
+                    {
+                        "name": "regen",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys"
+                    },
+                    {
+                        "name": "stargaze",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "starsvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4qlwk6v"
+                    },
+                    {
+                        "name": "ixo",
+                        "type": "mainnet",
+                        "logo": "",
+                        "address": "ixovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42frukn"
+                    }
+                ]
+            }
+        }
+    ]
+}
