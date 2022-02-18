@@ -20,67 +20,78 @@
                         "name": "desmos",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42"
+                        "address": "desmosvaloper1lrny98cc59kwqwlsgwry67ck0hjvre2jke3x42",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "comdex",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7"
+                        "address": "comdexvaloper1s9em43slvq8zk9xxkdfqgve9zxw4sha7hhkqa7",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "stargaze",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq"
+                        "address": "starsvaloper185dupqc8z7w374r6d5wgqm9cqlr485wz9jqqvq",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "bitcanna",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf"
+                        "address": "bcnavaloper19x6erj6jjqe8sel3wk382cmxx0k6ch6a83qanf",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "medibloc",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv"
+                        "address": "panaceavaloper1h2k9m0s5qwpnxrwumscn0hs3jmvhxhy2ud5ywv",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "osmosis",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5"
+                        "address": "osmovaloper1t29pjdugzyetxaehf62a8x7hhq4u0v4un9mxg5",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "sifchain",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva"
+                        "address": "sifvaloper12g5m38uf5zlnjmgprn6yly69pquerf0t8n7wva",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "ixo",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658"
+                        "address": "ixovaloper1dm705kvyvpjrrf0tcsczyme46xth5qhyngn658",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "axelar",
                         "type": "testnet",
                         "logo": "",
-                        "address": "axelarvaloper1znln7jg6veynygkstkpqtqdwa47rp7u4zqvev7"
+                        "address": "axelarvaloper1znln7jg6veynygkstkpqtqdwa47rp7u4zqvev7",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "idep",
                         "type": "testnet",
                         "logo": "",
-                        "address": "idepvaloper1up20smqwq4ymvp550lghtdldps6x49t5j3rlga"
+                        "address": "idepvaloper1up20smqwq4ymvp550lghtdldps6x49t5j3rlga",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "desmos",
                         "type": "testnet",
                         "logo": "",
-                        "address": "desmosvaloper1yj39fh6zyyl9h7uxh0hguh95w9w23td4x8pud2"
+                        "address": "desmosvaloper1yj39fh6zyyl9h7uxh0hguh95w9w23td4x8pud2",
+                        "relayer_operator": ""
                     }
                 ],
                 "mina": [
@@ -115,139 +126,162 @@
                         "name": "cosmos",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn"
+                        "address": "cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "kava",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "kavavaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwu6lgey7"
+                        "address": "kavavaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwu6lgey7",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "iris",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "iva18pva3yzzzaxj7l5a9uk66a0q7lflscyw966jud"
+                        "address": "iva18pva3yzzzaxj7l5a9uk66a0q7lflscyw966jud",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "starname",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "starvaloper1vlqztrl5pwnw8v8vd2ejwge86y5zrgua7rx7xj"
+                        "address": "starvaloper1vlqztrl5pwnw8v8vd2ejwge86y5zrgua7rx7xj",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "band",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "bandvaloper17d3uhcjlh4jyqcep82jfsrg8avsngklxxan5tg"
+                        "address": "bandvaloper17d3uhcjlh4jyqcep82jfsrg8avsngklxxan5tg",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "akash",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz"
+                        "address": "akashvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfkkw8gz",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "sentinel",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "sentvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf43yj25"
+                        "address": "sentvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf43yj25",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "persistence",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "persistencevaloper1rq598kexpsdmhxq63qq74v3tf22u6yvlre4r00"
+                        "address": "persistencevaloper1rq598kexpsdmhxq63qq74v3tf22u6yvlre4r00",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "fetch",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz"
+                        "address": "fetchvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krf8kmpsz",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "crypto.org",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "crocncl1xdmxh2hf68x7r5fwnu09ddyvrt2d6nwgyqzucr"
+                        "address": "crocncl1xdmxh2hf68x7r5fwnu09ddyvrt2d6nwgyqzucr",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "sifchain",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "sifvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfas26wf"
+                        "address": "sifvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfas26wf",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "kichain",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "kivaloper1ss2f0nl7sn42x8x0d337mj9welzml8h00msg4x"
+                        "address": "kivaloper1ss2f0nl7sn42x8x0d337mj9welzml8h00msg4x",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "osmosis",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "osmovaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep88n0y4"
+                        "address": "osmovaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4ep88n0y4",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "medibloc",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "panaceavaloper1rr89tj2jjlmf6xvc4a9plp4fll225ugqtk73r9"
+                        "address": "panaceavaloper1rr89tj2jjlmf6xvc4a9plp4fll225ugqtk73r9",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "certik",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "certikvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfpn43fr"
+                        "address": "certikvaloper18tmu0lrfsdvke8e3a3jsd7fq2rs29krfpn43fr",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "emoney",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "emoneyvaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwurl6vr7"
+                        "address": "emoneyvaloper140g8fnnl46mlvfhygj3zvjqlku6x0fwurl6vr7",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "rizon",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "rizonvaloper1qpgalplval6ynvq2r0afxchmc0x00zmuu06300"
+                        "address": "rizonvaloper1qpgalplval6ynvq2r0afxchmc0x00zmuu06300",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "juno",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa"
+                        "address": "junovaloper1t8ehvswxjfn3ejzkjtntcyrqwvmvuknzmvtaaa",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "bitcanna",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "bcnavaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0fuwmq2"
+                        "address": "bcnavaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0fuwmq2",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "regen",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "regenvaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0f5erue"
+                        "address": "regenvaloper1ss2f0nl7sn42x8x0d337mj9welzml8h0f5erue",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "comdex",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "comdexvaloper1p0a674uq64mxfgxa2h75a6k7r86hjg7pefq4zy"
+                        "address": "comdexvaloper1p0a674uq64mxfgxa2h75a6k7r86hjg7pefq4zy",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "bitsong",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "bitsongvaloper1wf3q0a3uzechxvf27reuqts8nqm45sn2yq26g3"
+                        "address": "bitsongvaloper1wf3q0a3uzechxvf27reuqts8nqm45sn2yq26g3",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "desmos",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "desmosvaloper1tknem46cl5mlxkpqmls2nct38rtkvyq7cmdtcc"
+                        "address": "desmosvaloper1tknem46cl5mlxkpqmls2nct38rtkvyq7cmdtcc",
+                        "relayer_operator": ""
                     }
                 ]
             }
@@ -272,61 +306,71 @@
                         "name": "cosmos",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "cosmosvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q46fe2xk"
+                        "address": "cosmosvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q46fe2xk",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "band",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "bandvaloper13vd9rzgytsvcm278ufehsvdvg2kky2djwjguq7"
+                        "address": "bandvaloper13vd9rzgytsvcm278ufehsvdvg2kky2djwjguq7",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "akash",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "akashvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cyw7r4"
+                        "address": "akashvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4cyw7r4",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "sifchain",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "sifvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4nz2r97"
+                        "address": "sifvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4nz2r97",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "osmosis",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "osmovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4d3kvts"
+                        "address": "osmovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4d3kvts",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "rizon",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd"
+                        "address": "rizonvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q40yn0yd",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "juno",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "junovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kjctkq"
+                        "address": "junovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4kjctkq",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "regen",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys"
+                        "address": "regenvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4ucmxys",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "stargaze",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "starsvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4qlwk6v"
+                        "address": "starsvaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q4qlwk6v",
+                        "relayer_operator": ""
                     },
                     {
                         "name": "ixo",
                         "type": "mainnet",
                         "logo": "",
-                        "address": "ixovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42frukn"
+                        "address": "ixovaloper1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42frukn",
+                        "relayer_operator": ""
                     }
                 ]
             }
