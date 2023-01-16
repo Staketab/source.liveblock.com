@@ -6,7 +6,7 @@
                     "id": "cosmos",
                     "symbol": "atom",
                     "name": "Cosmos",
-                    "logo": "https://github.com/Staketab/source.liveblock.com/blob/main/assets/logo/cosmos.png"
+                    "logo": "https://raw.githubusercontent.com/Staketab/source.liveblock.com/main/assets/logo/cosmos.png"
                 },
                 {
                     "id": "akash-network",
@@ -192,13 +192,13 @@
                     "id": "stargaze",
                     "symbol": "stars",
                     "name": "Stargaze",
-                    "logo": "https://github.com/Staketab/source.liveblock.com/blob/main/assets/logo/stargaze.png"
+                    "logo": "https://raw.githubusercontent.com/Staketab/source.liveblock.com/main/assets/logo/stargaze.png"
                 },
                 {
                     "id": "umee",
                     "symbol": "umee",
                     "name": "Umee",
-                    "logo": "https://github.com/Staketab/source.liveblock.com/blob/main/assets/logo/umee.png"
+                    "logo": "https://raw.githubusercontent.com/Staketab/source.liveblock.com/main/assets/logo/umee.png"
                 }
             ],
             "mina": [
@@ -206,7 +206,7 @@
                     "id": "mina-protocol",
                     "symbol": "mina",
                     "name": "Mina Protocol",
-                    "logo": "https://github.com/Staketab/source.liveblock.com/blob/main/assets/logo/mina.png"
+                    "logo": "https://raw.githubusercontent.com/Staketab/source.liveblock.com/main/assets/logo/mina.png"
                 }
             ]
         }
